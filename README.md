@@ -1,9 +1,11 @@
 # tkinter_AI_Data-process
 Tkinter based GUI interface, including some AI technologies, such as ASR, TTS, face detection
-![微信截图_20220602142917](https://user-images.githubusercontent.com/37141191/171684889-2176c793-f7b6-4e0f-bdf8-e3b3fce4ba00.png)
+![微信截图_20220602142917](https://user-images.githubusercontent.com/37141191/171685611-f5fd7fc8-3563-457f-a07a-bf3593b6d8d3.png)
 
-![0f42c9badc94b03a11261b6ded841ed](https://user-images.githubusercontent.com/37141191/171684916-7d4d5a4a-8018-4834-bfae-07f97b0bf850.jpg)
+![微信截图_20220602142947](https://user-images.githubusercontent.com/37141191/171685629-cf0fbbbd-2a31-4e24-ad67-b1e29001e6ec.png)
 
-![微信截图_20220602142947](https://user-images.githubusercontent.com/37141191/171684932-83b9227f-1c8d-4eeb-93a4-caff6276fa3e.png)
+![0f42c9badc94b03a11261b6ded841ed](https://user-images.githubusercontent.com/37141191/171685660-d23c27bf-e069-42d9-a726-dc49a7f58f73.jpg)
 
-![微信截图_20220602143213](https://user-images.githubusercontent.com/37141191/171684947-9690f345-c754-4aa4-a36e-8372bd347e96.png)
+
+![微信截图_20220602143213](https://user-images.githubusercontent.com/37141191/171685631-a7079b97-6962-40a6-810a-dd22d53c76b3.png)
+
