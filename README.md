@@ -1,4 +1,4 @@
-# tkinter_AI_Data-process
+# tkinter_AI
 Tkinter based GUI interface, including some AI technologies, such as ASR, TTS, face detection.
 Packaging with pyinstaller.
 If you want the ASR model file, please @ me:liu_ioa@163.com.
