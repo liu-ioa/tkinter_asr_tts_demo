@@ -4,7 +4,8 @@ Packaging with pyinstaller.
 If you want the ASR model file, please @ me:liu_ioa@163.com.
 
 ![微信截图_20220602142917](https://user-images.githubusercontent.com/37141191/171685611-f5fd7fc8-3563-457f-a07a-bf3593b6d8d3.png)
-![QQ截图20220603094557](https://user-images.githubusercontent.com/37141191/171771357-6f0914d1-8a10-411c-877e-4f0e9fe76f73.png)
+
+![QQ截图20220603094557](https://user-images.githubusercontent.com/37141191/171771407-7b22128d-55fe-4224-9ba6-eda69954c84e.png)
 
 
 ![微信截图_20220602142947](https://user-images.githubusercontent.com/37141191/171685629-cf0fbbbd-2a31-4e24-ad67-b1e29001e6ec.png)
