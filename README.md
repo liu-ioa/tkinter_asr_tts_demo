@@ -1,7 +1,7 @@
 # tkinter_AI
 Tkinter based GUI interface, including some AI technologies, such as ASR, TTS, face detection.
 Packaging with pyinstaller, .exe file can be found here:链接：https://pan.baidu.com/s/13i_YykEVcvo6UcEDaiNO8Q?pwd=chhu 
-
+包含中文语音识别和文字转语音
 
 ![微信截图_20220602142917](https://user-images.githubusercontent.com/37141191/171685611-f5fd7fc8-3563-457f-a07a-bf3593b6d8d3.png)
 
